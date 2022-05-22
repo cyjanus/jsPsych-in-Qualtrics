@@ -1,6 +1,6 @@
 /* experiment parameters */
 var reps_per_trial_type = 4;
-var repo_site = "https://cdn.jsdelivr.net/gh/kywch/jsPsych-in-Qualtrics/flanker/";
+var repo_site = "https://cdn.jsdelivr.net/gh/cyjanus/jsPsych-in-Qualtrics/flanker/";
 
 /*set up welcome block*/
 var welcome = {
